@@ -1,0 +1,9 @@
+Task 1: Mean Ranks by Employment Status (Lower = Higher Priority)
+Work in CPA Firm,CPA Exam Preparation,Networking Opportunities,Interaction with Experienced Faculty,Technical Accounting Skills,Soft Skill Development,Internship and Recruitment Opportunities
+No,2.7560975609756095,3.4878048780487805,3.6097560975609757,2.8292682926829267,4.121951219512195,4.195121951219512
+Yes,2.6,4.2,2.4,2.4,4.6,4.8
+
+Task 2: Percentage Belief in Higher Lifetime Earnings by Program Type
+Program Type,Definitely yes,Probably yes,Might or might not,Probably not,Definitely not
+MAcc,40.0,40.0,12.0,4.0,4.0
+MBA,66.66666666666666,33.33333333333333,0.0,0.0,0.0
